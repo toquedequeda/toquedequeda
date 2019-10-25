@@ -13,6 +13,7 @@ const IndexPage = () => (
       <span>¯\_(ツ)_/¯</span> */}
 
       <span>No</span>
+      <span>(RM)</span>
       <span>♪~ ᕕ(ᐛ)ᕗ</span>
     </div>
   </>
