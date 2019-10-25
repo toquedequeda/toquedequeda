@@ -9,8 +9,11 @@ const IndexPage = () => (
   <>
     <SEO title="Home" />
     <div id="toque">
-      <span>Sí</span>
-      <span>¯\_(ツ)_/¯</span>
+      {/* <span>Sí</span>
+      <span>¯\_(ツ)_/¯</span> */}
+
+      <span>No</span>
+      <span>♪~ ᕕ(ᐛ)ᕗ</span>
     </div>
   </>
 )
