@@ -3,7 +3,7 @@ import SEO from "../components/seo"
 import Countdown from "react-countdown-now"
 
 const IndexPage = () => {
-  const [isToque, setIsToque] = useState(false)
+  const [isToque, setIsToque] = useState(true)
 
   const targetDate = new Date("10/25/2019")
   targetDate.setHours(23, 0, 0)
