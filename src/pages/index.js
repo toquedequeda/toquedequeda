@@ -33,7 +33,7 @@ const IndexPage = () => {
           <>
           <span style={{fontSize: ".5em"}}>El siguiente:</span>
           <Countdown
-            date={Date.now() + 5000}
+            date={targetDate}
             onComplete={() => setIsToque(true)}
           />
           </>
