@@ -5177,6 +5177,13 @@ gatsby-page-utils@^0.0.27:
     micromatch "^3.1.10"
     slash "^3.0.0"
 
+gatsby-plugin-fullstory@^2.1.14:
+  version "2.1.14"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-fullstory/-/gatsby-plugin-fullstory-2.1.14.tgz#66fe0eef0c9577922779abd6515ae59fc8595e19"
+  integrity sha512-zbIJ99F1DARnzYxeLX+4tZnaKo3GWKGsml8XlVq/N81RNFdCmhOS82KbjRGHWlmSZZ8ddxHfEzcYPGUVYo7iJQ==
+  dependencies:
+    "@babel/runtime" "^7.6.3"
+
 gatsby-plugin-manifest@^2.2.23:
   version "2.2.23"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-2.2.23.tgz#7ee152f3758645ef4ace2c06f446dc4b2f058730"
